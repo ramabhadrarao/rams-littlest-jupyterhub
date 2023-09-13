@@ -57,6 +57,10 @@ We have several tutorials to get you started.
 
 ## Documentation
 
+## Manual Installation after cloning git to your system 
+
+curl ./bootstrap/bootstrap.py | sudo -E python3 - --admin <admin-user-name>
+
 Our latest documentation is at: https://the-littlest-jupyterhub.readthedocs.io
 
 We place a high importance on consistency, readability and completeness of
